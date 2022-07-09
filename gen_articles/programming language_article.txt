@@ -1,0 +1,20 @@
+intro:
+
+ A programming language is a vocabulary and set of grammatical rules for instructing a computer or computing device to perform specific tasks . programming languages give instructions to digital computers that then carry out specified tasks or functions that you might use every day on the internet or in apps . c++ was designed to organize the raw power of c using oop, but maintain the speed of c and be able to run on many different types of computers . javascript is a client-side programming language that runs inside a client browser and processes commands on a computer rather than a server . c://://www.com/programming-language-languages-listing-listed.com offers an index of the different programming and scripting languages currently listed on our site .
+
+
+example:
+
+ Visual Basic is used as an easy way to develop graphical user interface programs for windows, but ultimately it's limited and would not be considered a 'serious' coding language . Some languages may make the transition from closed to open; for example, erlang was originally an ericsson's internal programming language . If you're interested in developing drivers or software interfaces for hardware devices, consider the following languages: visual basic, visual basic and visual basic . Visual basic is used for developing graphical user interfaces for windows . Visual Basic and visual Basic are used as a way of developing software for software that can be easily written and read by programmers . pascal also improved the “pointer” data type, a very powerful feature of any language that implements it.
+
+
+history:
+
+ There have been attempts to design one "universal" programming language that serves all purposes, but all of them have failed to be accepted as filling this role . Java may wind up as the instructional language of tomorrow as it is truly object-oriented and implements advanced techniques such as true portability of code and garbage collection . C is still widely used today, with c compilers from various vendors available for the majority of existing computer architectures and operating systems . Some consider autocode to be the first compiled computer programming language, meaning that it can be translated directly into machine code using a program called a compiler . Java is still popular choice for video game developers who use c++ language as well since the two languages complement each other in terms of programming .
+
+
+syntax:
+
+ c has no "define" keyword; instead, a statement beginning with the name of a type is taken as a declaration . c program source text is free-format, using the semicolon as a statement terminator and curly braces for grouping blocks of statements . It was designed to be compiled to provide low-level access to memory and language constructs that map efficiently to machine instructions, all with minimal runtime support . A cobol program is built in a way similar to an essay, with four or five major sections that build into an elegant whole . A c program written with portability in mind can be compiled for a wide variety of computer platforms and operating systems with few changes to its source code . It would not be affected when c implementations started supporting these extensions
+
+

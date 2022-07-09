@@ -1,0 +1,20 @@
+intro:
+
+ cryptographic hash functions produce a hashed output that cannot be used to retrieve the original input data . pretty good privacy (PGp) is a software package originally developed by phil zimmerman that provides encryption and authentication for e-mail and file storage applications . PPGp is a free software that protects privacy by encrypting and encrypting messages and sending them to the same encryption key as the sender and receiver of data both share the same key, which is then used both to encrypt and decrypt the information . non-repudiation assures that no one can deny the validity of the data in question, and is actually a legal term used in cyber security . in steganography, an unintended recipient or an intruder is unaware of the fact that observed data contains hidden information .
+
+
+example:
+
+ encryption is an important part of cryptography, but doesn't encompass the entire science . elliptic-curve cryptography (ecc) is also interesting because it uses less computing power: keys are shorter and more challenging to break . The fact that there is only a single key protecting the information means there is some risk when sending it over insecure connections . In some jurisdictions where the use of cryptography is legal, laws permit investigators to compel the disclosure of encryption keys for documents relevant to an investigation . This holds true because deciphering an encrypted message by brute force would require the attacker to try every possible key . In many applications of public-key cryptography, user security is ultimately dependent on one or more secret text values or passwords . The nsa's involvement was the
+
+
+history:
+
+ First recorded use of cryptography for correspondence was by the spartans, who as early as 400 bc employed a cipher device called the scytale for secret communication between military commanders . Early computer technology was eventually used to help break the enigma cipher, and the successful decryption of enigma messages is still considered to be a critical component of the eventual allied victory . by the end of the 20th century, the volume of ciphertext that had to be dealt with on a single communications channel had increased nearly a billionfold, and it continues to increase at an ever-expanding rate . The tricky part is that everyone communicating needs to know the algorithm and the key in advance, though it's much easier to safely pass on and keep that information .
+
+
+syntax:
+
+ There are many ways in which to encrypt information, and the levels of complexity depend on the degree of protection the data may require . The simplest method uses the symmetric or "secret key" system . symmetric is generally very fast and ideal for encrypting large amounts of data . With asymmetric crypto, two different keys are used for encryption and decryption . It is encoded and decoded by producing a grid or set of grids to produce the subsequent symbols . The security of the public key cryptosystem is entirely dependent on the protection of the private keys . The encryption is then treated like a series of small caesar ciphers, and a method such as frequency analysis could then be performed to crack the code . The symmetric encryption is generally
+
+

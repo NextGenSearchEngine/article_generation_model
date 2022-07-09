@@ -1,0 +1,20 @@
+intro:
+
+ A search engine is a software program that helps people find the information they are looking for online using keywords or phrases . before search engines were developed, the internet was a collection of file transfer protocol (ftp) sites in which users would navigate to find specific shared files . advanced search operators are commands that usually need additional information (such as a website or a related term) to work when a user enters a search term . lycos was one of the earliest search engines developed in 1994 at carnegie mellon university by dr. dr.  msn search was a service offered as part of microsoft’s network of web services . yandex (from the term â y et another i ndex erâ
+
+
+example:
+
+ In the ruling in favor of mario costeja gonzalez, the court noted that search engines can significantly impact the privacy rights of many people and that google controlled the dissemination of personal data . In addition to their search engine, they offer a browser extension that works on all major browsers to block ads and third-party tracking tools on the websites you visit . The source of all search engine data is collected using a spider or crawler that visits each page on the internet and collects its information . Search operators help you narrow down search results, and they can be useful for everything from content research to finding online discussion to technical audits . In fact, there are a number of alternative search engines that want to take the throne but none of them is ready (yet to pose a threat
+
+
+history:
+
+ Search Engine is the most reliable way to find exactly what you are looking for on the internet . youtube was founded in 2005 by veterans of paypal and was purchased just over a year later by google . bing claims their search results are sourced from a modified google algorithm, so users are able to query the information they seek without worrying about google’s tracking activities . The list is by no means complete and for sure many more will be created in the future but as far as the first places are concerned, google and bing will hold the lead positions for years to come . Weâll guide you through some of the best google advanced search operators (that actually work) and show you how to use them effectively .
+
+
+syntax:
+
+ The real processing load is in generating the web pages that are the search results list: every page in the entire list must be weighted according to information in the indexes . The results for a specific query are then displayed on the serp. Most of the questions (user queries) are answered by other users on this search engine . cc search works is simple – it draws in results from platforms such as soundcloud, wikimedia, and flickr and displays results labeled as creative commons material . each search engineâs algorithm is unique, so a top ranking on yahoo! between visits by the spider, the cached version of the page (some or all the content needed to render it) stored in the search engine working memory is quickly sent to
+
+

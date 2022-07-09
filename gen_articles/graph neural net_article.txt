@@ -1,0 +1,20 @@
+intro:
+
+ graph neural networks (gnn) are a type of machine learning algorithm that can extract important information from graphs and make useful predictions . They can extract information from graph graphs to extract useful information and extract useful predictions from graphs . They are also known as graphs neural networks, which can be used to predict useful predictions and extract important data from graphs, such as useful information from the graph . They were developed in the 1980s and 1990s by computer scientists at the University of Cambridge University in Cambridge, Massachusetts, in order to learn more about graphs and learn more from graph data . They have also been developed by computer experts at MIT and Google in the 1990s and other universities in the U.S. and beyond . They include Google, Google and Microsoft in the
+
+
+example:
+
+ Changing the order of pixels results in a different image and will cause the neural network that processes them to behave differently .    in contrast, changing the order  results in an image that is different from the original image . The neural network processes the images and processes them differently in order to make them look more like an image, such as in order of pixel order, rather than the order order of the image, to create an image of a new image . In contrast, image order is order order and order order, order order order results in different images, and image is ordered by order of image to create a different picture of each image and to process the image differently in the same order order as image order . Order order order is ordered to create
+
+
+history:
+
+ Once you have a neural network that can learn the embeddings of a graph, you can use it to accomplish different tasks . You can also use the network to learn how a graph embeds can be used to learn more about it's embedding and how it can be applied to other tasks in the real world, such as building a network that learns the embedding of graphs and building a computer network to build a network of its own data sets to learn a new graph structure to solve problems in real-world data sets . The network is now being used to solve complex problems such as complex networks that learn from a graph to solve the problem of building a new network of data sets in a new way of learning and solving a new system .
+
+
+syntax:
+
+ graphs can come in different structures and sizes, which does not conform to the rectangular arrays that neural networks expect . graphs can be different sizes and structures, which is not the same as the ones that they are expected to be . graphs may not be the same rectangular array that neural network networks expect to expect, but they can be found to be different shapes and sizes of graphs that are not rectangular arrays, such as those that are used in neural networks . graphs are different sizes, and they are not always the same shapes and structures that are expected by neural networks to be rectangular arrays . This is why neural networks need to be able to find a different structure and size of graphs to be found in a different way to find out what they are .
+
+

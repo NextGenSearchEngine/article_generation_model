@@ -1,0 +1,20 @@
+intro:
+
+ Distributed cloud is not designed to increase flexibility or mitigate against failures but is used to allow an organization to achieve more that could be done with a single provider . Service-hosted remote procedure call leverages serverless computing to enable the deployment of individual functions in the cloud that run in response to events . edge computing solves critical tasks in processing as close to the data root as possible to decrease latency and cut bandwidth usage . Distributed in this context means that something is shared among multiple systems, which may also be in different locations while still being controlled by the same provider . distributed cloud addresses the needs of customers whose applications require location-based services to reduce latency and/or meet compliance regulations. Distributed clouds are designed for the optimized and fast
+
+
+example:
+
+ Distributed cloud provides the ideal foundation for edge computing - running servers and applications closer to where data is created . edge computing is viewed increasingly as essential for applications that process huge volumes of data at high speeds or in real time, when low latency is critical . Cloud@home aims to implement a cloud computing infrastructure using volunteered resources . It can place data in local storage in some residential regions or even in 5g stations in densely populated areas to ensure fast video downloads on mobile devices. edge computing can promise better bandwidth for better response time with workloads and increased throughput due to lower overall traffic. Edge computing can benefit from edge computing are those where low latency and high throughput are critical or where it is too expensive to send the data back to a distant cloud for processing
+
+
+history:
+
+ The cloud symbol was used to represent networks of computing equipment in the original arpanet by as early as 1977, and the csnet by 1981 . By 2024, 45% of it spending will shift from internal infrastructure to cloud services . The distributed cloud provides an ideal foundation for edge computing, the process of running workloads as physically close as possible to the point of data generation . It is supported by decentralized networking strategies such as secure access service edge (sase) and is expected to help drive the growth of edge computing as a business strategy . As data from hundreds or thousands of companies can be stored on large cloud servers, hackers can theoretically gain control of huge stores of information through a single attack—a process he called "hyperjacking".
+
+
+syntax:
+
+ Services from public cloud providers become âdistributed out to specific and varied physical locations . The operations and governance of satellite locations (which may also be referred to hubs, sub-stations or mini-clouds) remain the responsibility of the originating public cloud provider . The pricing model for saas applications is typically a monthly or yearly flat fee per user, so prices become scalable and adjustable if users are added or removed at any point. performance is monitored by it experts from the service provider, and consistent and loosely coupled architectures are constructed using web services as the system interface. capabilities are available over the network and accessed through standard mechanisms that promote use by heterogeneous thin or thick client platforms (e.    .
+
+

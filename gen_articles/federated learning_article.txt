@@ -1,0 +1,20 @@
+intro:
+
+ Once the server receives the data from user devices, it updates the base model with the aggregate parameter values of user-trained models . Once the data is received, the server updates the model to reflect the aggregate parameters of the user-training models . The model is then updated with the values of the parameters of each new model, such as those of the new model . The new model is based on the data collected by the server from the user's device, rather than the model itself, the model is updated to reflect that user data, it is updated by the new data to reflect its aggregate parameters . The data is then used to train a new model based on user data to create a new data model, which is then automatically updated to the model .
+
+
+example:
+
+ The heterofl technique can enable the training of heterogeneous local models with dynamically-varying computation and non-iid data complexities while still producing a single accurate global inference model . The technique can be used to train heterogeneous models with dynamic computation and data complexities, such as dynamic computation, while producing an accurate global inferential model . For more information on the technique, visit http://www.com/heterofl.org//dynofl and the technique is being developed in the U.S. based in New York City, New York, NY, NY and LA, NY. For more details, visit www.comfault.org and www.ntntl.comfortfortl.
+
+
+history:
+
+ federated learning technology creates endless possibilities for data scientists and researchers to work on emerging research questions and improve their models . The technology is trained across many diverse and representative datasets . It is available to download and train your models in order to improve your models with the latest version of this article. We are happy to make available in the U.S. to use the technology to test and train our models in the next few weeks. We hope to see more data scientists working together in the coming weeks to improve our models with new data sets. We also hope to work together to solve emerging research challenges with new models that need to be trained across diverse datasets. We're happy to share our knowledge of these new models with our data scientists in this way.
+
+
+syntax:
+
+ Once the machine learning model is trained, the developer team must make decisions on whether it will preserve or discard the training data . The team must decide whether to preserve or throw training data, and whether to use it in the future, in the hope of preserving or discarding it . The model is currently being used to train a machine-learning algorithm for the first time in a machine learning lab . The developer team has to make decisions whether or not to use the data to train the machine-learning model again or discard it, and how it will use it later in a new way to learn more about the data, the team says . For more information, visit CNN.com/training-training-learning.com or click here .
+
+

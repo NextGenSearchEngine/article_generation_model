@@ -1,0 +1,20 @@
+intro:
+
+ Few-shot learning refers to the practice of feeding a learning model with a very small amount of training data . Meta-learning involves teaching a model how to learn which features are important in a machine learning task . n-shot, k-way classification tasks are the de-facto benchmark for few-shot . learning is typically measured by the performance of a algorithm to perform few .shot learning is more complicated than normal object classification because a lack of samples makes it impossible to train a deep neural network from scratch . The third family exploits prior knowledge about the data and its likely variation that is likely to be learned from training tasks . This model training approach helps make use of small datasets and achieve acceptable levels of accuracy even when the data is fairly scarce .
+
+
+example:
+
+ Few-shot learning reduces the need to add specific features for various tasks when using a common dataset to create different samples . Multi-class comparators attempt to do the same thing in a more principled way; here the representation and final classification are learned in an end-to-end fashion . This technique is mostly utilized in the field of computer vision, where employing an object categorization model still gives appropriate results even without having several training samples . improving few shot classification accuracy is important not exclusively for computer vision tasks such as perception of self-driving cars, but it should also work in other areas . We address the zero-shot nerc specific challenge that the not-an-entity class is not well defined as different entity classes are considered in training and testing
+
+
+history:
+
+ The field of few-shot learning has recently seen substantial advancements in machine learning . The first convolutional neural network (cnn) algorithms were created, they have drastically improved deep learning performance on computer vision (cv) tasks . The idea is that the system repeatedly sees instances (tasks) during training that match the structure of the final few shot task, but contain different classes. categories are first learned on numerous training examples, then new categories are learned using transformations of model parameters from those initial categories or selecting relevant parameters for a classifier . The field is quickly developing, but there arenât many efficient solutions . We are confident that researchers in this field will keep closing the gap between machine and human performance on the challenging task of few
+
+
+syntax:
+
+ Many machine learning techniques require thousands of examples to achieve similar performance . few-shot has two to five samples per each class, making it just a more flexible version of osl . as the number of shots increases, the prediction accuracy improves . at each step of meta-learning, we update the model parameters based on a randomly selected training task . this differs from the standard n-way-k-shot configuration and does not obviously map onto the above description of the meta-learning . but with zero shot, we use the language model directly (without any explicit fine-tuning) although it is possible to consider their data as consisting of minimal training and test tasks . to implement few-shots learning projects, users can refer to the following libraries/repositories in python
+
+

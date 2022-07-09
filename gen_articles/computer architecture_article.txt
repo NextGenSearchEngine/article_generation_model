@@ -1,0 +1,57 @@
+intro:
+
+ computer architecture is a specification detailing how a set of software and hardware technology standards interact to form a computer system or platform . It can be defined as the science and art of selecting and interconnecting hardware components to create computers that meet functional, performance and cost goals . A hllca may simply be a general-purpose computer architecture with some features specifically to support a given hll or several hlls . It refers to those attributes of the computer system that are visible to a programmer and have a direct effect on the execution of a program . The microarchitecture of a machine is usually represented as (more or less detailed) diagrams that describe the interconnections of the various microarcharchitectural elements of the machine, which may be anything from single gates and registers .
+
+
+example:
+
+ Computer architecture includes at least three main subcategories: instruction set architecture, microarchitecture, architecture, architecture architecture and architecture architecture . Computer architecture and features also affect power consumption and processor cost . Hsa intermediate layer (hsail) provides instruction set support for hsa features such as exceptions and virtual functions; this uses jit to ensure performance. Hsa is a recent architecture in this vein is the heterogeneous system architecture (2012), which hsa . architecture . architecture allows for the use of large and powerful arrays of processors (called multiprocessors or supercomputers) that allow many calculations to proceed in parallel by assigning them . to separate processing elements. The architecture of a computer architecture can be used to help solve big-data scientific problems.
+
+
+history:
+
+ Best programs for aspiring computer architects are computer-based fields because they offer students the most hands-on experience in database design or network security . Computer architects are expected to see an employment growth of 6% between 2016 and 2026 as reported by the u.Konrad zuse described in two patent applications for his future projects that machine instructions could be stored in the same storage used for data, i. when building the computer z1 in 1936 . Now a day a dayâs computer we are using are based on von-neumann architecture. Even personal computers with multiple cpus have appeared since the 1990s. yearly, hundreds of millions of ia-32 architecture cpus are used by this market. yearly
+
+
+syntax:
+
+ The choice of the number of execution units, their latency and throughput is a central microarchitectural design task . System design includes the other entire hardware component within the system such as virtualization, multiprocessing . The pipelined architecture allows multiple instructions to overlap in execution, much like an assembly line. It is the only interface that you have, because the instruction set architecture is the specification of what the computer can do and the machine has to be fabricated in such a way that it will execute whatever has been specified in your isa . The design process involves choosing an instruction set and a certain execution paradigm (e.  since these devices are used to run countless different types of programs, these . devices are not specifically targeted at one type of application or one function)
+
+
+
+87 B
+
+
+MISTAKES
+Grammar	12
+Punctuation	18
+Spelling	20
+Style	0
+STATISTICS
+Paragraphs	1
+Sentences	27
+Syllables	943
+Words	501
+Characters	3286
+Spaces	530
+READABILITY
+Read time	2m 30s
+Speak time	4m 11s
+Automated readability index	12 
+Coleman–Liau index	12 
+Flesch reading ease	29.8 
+Flesch–Kincaid grade level	12 
+SMOG grade	12 
+Gunning fog index	17.4 
+LANGUAGE English (US)
+
+READABILITY
+Score
+29.8 pts
+Level
+University+
+Adult reading level
+University graduates
+
+
+

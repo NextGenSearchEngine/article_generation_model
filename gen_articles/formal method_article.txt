@@ -1,0 +1,20 @@
+intro:
+
+ formal methods are a set of tools and techniques based on mathematical model and formal logic that are used to specify and verify requirements and designs for hardware and software systems . The aim of russellâs programme is to describe the foundations of mathematics in a purely logical way and consistently at the same time . formal methods europe (fme) is an organization whose aim is to encourage the research and application of formal methods for the improvement of software and hardware in computer-based systems . In theory, formal methods provide the description of functions by which the program can be verified, such as the Jordan curve theorem and fixed-point theoretics as well as the jordan curve theorems. in analysis .
+
+
+example:
+
+ There is an increasing demand of current information systems to incorporate the use of a higher degree of formalism in the development process . proponents of such systems argue that the results have greater mathematical certainty than human-produced proofs . this formal description can be used to guide further development activities (see following sections) and to verify that the requirements for the system being developed have been completely and accurately specified, or formalising system requirements by expressing them in a formal language with a precise and unambiguously defined syntax and semantics . There is also the problem of "verifying the verifier"; if the program which aids in the verification is itself unproven, there may be reason to doubt the soundness of the produced results . In several cases, engineers have reported finding flaws in systems
+
+
+history:
+
+ In the algol 58 report, john backus presented a formal notation for describing programming language syntax, later named backus normal form then renamed backus–naur form (bnf) it grew out of work started in the 1960s to address errors in programming, as well as to bring mathematical foundations into computing . dansk datamatik center used formal methods in the 1980s to develop a compiler system for the ada programming language that went on to become a long-lived commercial product . The original idea of formal reasoning belongs to gottfried wilhelm leibniz, a 17th-century german mathematician and philosopher . The use of formal verification is motivated by the expectation that, as in other engineering disciplines, performing appropriate mathematical analysis can contribute to the reliability and robustness of a design
+
+
+syntax:
+
+ fregeâs approach is predominantly syntactic and based on a language that describes predicates and operations . Most formal methods use automated theorem proving systems to verify their designs . Some proofs of correctness are produced in the style of mathematical proof: handwritten (or typeset) using natural language, using a level of informality common to such proofs . The mathematical foundation underlying formal methods is used to help ensure the adequacy of the design to result in real world functionality, consistency and dependability in the end product . In a lightweight design, formal methods are applied sparingly to a system, with the clarity that this stage produces is a benefit in itself [kling95]. Often, formal method are only used to describe the desired function and to guide development
+
+
